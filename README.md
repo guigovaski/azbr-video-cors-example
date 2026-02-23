@@ -1,6 +1,6 @@
 # CORS Example — ASP.NET Core
 
-Projeto de exemplo criado para acompanhar o vídeo sobre **CORS (Cross-Origin Resource Sharing)** no canal **Azul Brasileiro**.
+Projeto de exemplo criado para acompanhar o vídeo sobre **CORS (Cross-Origin Resource Sharing)** no canal **AzureBrasil**.
 
 ## O que é CORS?
 
